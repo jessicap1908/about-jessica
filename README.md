@@ -5,10 +5,10 @@
 ---
 **School**: High School of Telecommunication Arts and Technology
 ---
-**Bio**:
- * I'm sixteen years old.
- * My birthday is in June.
- * I was born in Brooklyn.
+**Bio**:  
+  * I'm sixteen years old.  
+  * My birthday is in June.  
+  * I was born in Brooklyn.
  ---
 **School Schedule (Periods)**:  
   1. Gym
