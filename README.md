@@ -9,13 +9,12 @@
  * My birthday is in June.
  * I was born in Brooklyn.
  ---
-**School Schedule (Periods)**:  
-1. Gym    
-2. Chemistry  
-3. Software   
-4. Language  
-5. Pre Calc  
-6. Art  
-7. Lunch  
-   Or Libary
-8. Global History  
+**School Schedule (Periods)**:    
+  1. Gym    
+  2. Chemistry    
+  3. Software   
+  4. Language  
+  5. Pre Calc  
+  6. Art    
+  7. Lunch  
+  8. Global History  
